@@ -7,5 +7,14 @@ Dataset can be downloaded at https://ieee-dataport.org/documents/qrng-machine-le
 
 
 #### Requirements
+Paper Version
 * Keras==2.1.6
 * numpy==1.11.0
+* Python 2
+
+2020 Version
+* Keras==2.3.0
+* Tensorflow==2.2.0
+* Python 3
+- GPU ML for Sec 3A&B Available
+- GPU ML for Sec 3c To be uploaded
