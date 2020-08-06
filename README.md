@@ -13,8 +13,7 @@ Paper Version
 * Python 2
 
 2020 Version
-* Keras==2.3.0
-* Tensorflow==2.2.0
+* Tensorflow==1.14.0 (Keras is now parked under Tensorflow library)
 * Python 3
 - GPU ML for Sec 3A&B Available
 - GPU ML for Sec 3c To be uploaded
