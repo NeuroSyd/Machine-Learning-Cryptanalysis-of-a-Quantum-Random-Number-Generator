@@ -17,3 +17,9 @@ Paper Version
 * Python 3
 - GPU ML for Sec 3A&B Available
 - GPU ML for Sec 3c To be uploaded
+
+Benchmark
+* Tensorflow==1.14.0 
+* Python 3
+
+The benchmark folder contains a preliminary implementation of a benchmarking tool for random number generators using maching learning. More details can be found in the README.txt file in the benchmark folder.
