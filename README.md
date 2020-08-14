@@ -4,13 +4,13 @@ The paper is published on IEEE Transactions on Information Forensics and Securit
 
 Dataset can be downloaded at https://ieee-dataport.org/documents/qrng-machine-learning
 
-
+Google colab tutorial version: https://colab.research.google.com/drive/1bTw3-hNEa-EhnWlbHb12pbglh-xLbXzm?usp=sharing
 
 #### Requirements
 Paper Version
 * Keras==2.1.6
 * numpy==1.11.0
-* Python 2
+* Python 2 or 3 
 
 2020 Version
 * Tensorflow==1.14.0 (Keras is now parked under Tensorflow library)
